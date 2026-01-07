@@ -34,36 +34,10 @@ Welcome to **XYFEN** – your **fast, ad-free, and completely local video downlo
 | Uses `yt-dlp` | ✅ | ❌ | ❌ | ❌ |
 | Multi-Threaded Downloads | ✅ | ✅ | ❌ | ❌ |
 | Format Selection | ✅ | ✅ | ✅ | ❌ |
-| History Tracking | ✅ | ❌ | ✅ | ❌ |
 | Open Source | ✅ | ❌ | ✅ | ❌ |
 | User-Friendly GUI | ✅ | ✅ | ✅ | ✅ |
 
 > XYFEN focuses on **privacy, speed, and simplicity**, while other apps often include ads, trackers, or unnecessary complexity.
-
----
-
-## 🖥️ Screenshots
-
-<details>
-<summary>Download Tab</summary>
-
-![Download Tab](https://via.placeholder.com/600x300.png?text=Download+Tab)
-
-</details>
-
-<details>
-<summary>Finished Downloads</summary>
-
-![Finished Tab](https://via.placeholder.com/600x300.png?text=Finished+Tab)
-
-</details>
-
-<details>
-<summary>History & Failed Downloads</summary>
-
-![History Tab](https://via.placeholder.com/600x300.png?text=History+Tab)
-
-</details>
 
 ---
 
@@ -119,24 +93,22 @@ python main.py
 
 - User-Friendly: Minimalist design, organized tabs, and instant downloads.
 
-📜 License
+## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE
+- This project is licensed under the **`MIT License`** - see the LICENSE
  file for details.
 
-💬 Support
+## 💬 Support
 
 For questions, issues, or feature requests, open an issue on GitHub or join the XYFEN Discord
 .
 
 ⚡ Quick Links
 
-(GitHub Repository)[https://github.com/hevji/xyfen]
+- [GitHub Repository](https://github.com/hevji/xyfen)
 
-Installation Instructions
+- Installation Instructions (coming soon)
 
-Contributing Guidelines
-
-(License)[https://github.com/hevji/xyfen/LICENCE.md]
+- [Licence](https://xyfen.lovable.app/licence.txt)
 
 > XYFEN – download videos your way. Fast, local, and ad-free.
